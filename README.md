@@ -1,1 +1,2 @@
 # [Introduction to the Basic Node and Express Challenges](https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/)
+# mongodb+srv://adralph:Pleopleo1@cluster0.pxjxg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
